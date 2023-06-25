@@ -1,4 +1,4 @@
-# my-docker-project
+# Deploying a Nodejs application using docker 
 - a node js app was gotten 
 - docker images required to run  the app like mongodb and mongo express were gotten from dockerhub
 - both images were built/run and containers were created..
